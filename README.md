@@ -124,16 +124,6 @@ The dashboard is designed to answer **four key business questions**:
 
 ---
 
-## 🔍 Key Insights
-
-- 📉 Attrition is highest among **early-tenure employees**
-- 🧠 Behavioral factors (satisfaction, work-life balance) are **stronger drivers than salary**
-- ⏳ Employee tenure has a strong negative relationship with attrition
-- ⚠️ High-risk employees can be proactively identified using segmentation
-- 📊 Combined metrics (like Satisfaction Index) provide better insights than individual variables
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Python (Pandas, NumPy, Seaborn, Matplotlib)**  
