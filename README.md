@@ -120,7 +120,7 @@ The dashboard is designed to answer **four key business questions**:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Dashboard_image.jpg)
+![Dashboard](Dashboard_Image.jpg)
 
 ---
 
